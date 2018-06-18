@@ -36,7 +36,7 @@ public class Login {
       	System.out.println("Login failure");
       }
       
-      Thread.sleep(200);
+      Thread.sleep(2000);
       
       driver.close();
     /*  driver.findElement(By.className(className)).click();
